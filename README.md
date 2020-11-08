@@ -1,7 +1,7 @@
 # Hi. I'm Neldis 👋
 
 - 🌱 I’m currently learning software development.  
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/neldisbarrios/) and [Website](http://www.neldisbarriosworld.com/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/neldisbarrios/) and [Website](http://www.neldisbarriosworld.com/)
 
 ## ⚡ Technologies
 
