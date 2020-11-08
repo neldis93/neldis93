@@ -1,6 +1,6 @@
 # Hi. I'm Neldis 👋:octocat:
 
-- 🌱 I’m currently learning software development :computer: :books:
+- :books: I’m currently learning software development :computer:
 - 📫 How to reach me: :link: [LinkedIn](https://www.linkedin.com/in/neldisbarrios/) and :link: [Website](http://www.neldisbarriosworld.com/)
 
 ## ⚡ Technologies
