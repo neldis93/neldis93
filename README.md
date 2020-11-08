@@ -1,4 +1,4 @@
-# Hi. I'm Neldis 👋:octocat:
+# Hi. I'm Neldis 👋
 
 - :books: I’m currently learning software development :computer:
 - 📫 How to reach me: :link: [LinkedIn](https://www.linkedin.com/in/neldisbarrios/) and :link: [Website](http://www.neldisbarriosworld.com/)
