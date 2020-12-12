@@ -6,10 +6,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/neldisbarrios/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a target="_blank" href="mailto:neldis.dj56@gmail.com?subject=Hi">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a target="_blank" href="http://neldisbarriosworld.com/">
+  <a target="_blank" href="http://www.neldisbarriosworld.com/">
     <img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2FRubeenvz.com%2F">
   </a>
 </p>
