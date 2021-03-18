@@ -1,6 +1,6 @@
 # Hi. I'm Neldis 👋
 
-- :books: I’m currently a software developer :computer:
+- :books: I'm currently a software developer :computer:
 - 📫 How to reach me: 
   <p align="rigth">
   <a target="_blank" href="https://www.linkedin.com/in/neldisbarrios/">
