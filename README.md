@@ -38,4 +38,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![C/C++](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=c/c++)
 
