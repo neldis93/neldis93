@@ -1,6 +1,6 @@
 # Hi. I'm Neldis 👋
 
-- 💻 I'm currently a software developer 
+- 💻 I'm currently a software engineer & automation. 
 - 📫 How to reach me: 
   <p align="rigth">
   <a target="_blank" href="https://www.linkedin.com/in/neldisbarrios/">
